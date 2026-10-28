@@ -9,7 +9,8 @@
 <div align="center">
 
 <!-- OPTIONAL: Uncomment after adding your banner to assets/header.png -->
-<img width="70%" src="assets/header.jpeg" alt="Sajjad Hossain" />
+
+<img width="100%" height="300" src="./assets/header.jpeg" alt="Sajjad Hossain | Developer and Digital Marketer" />
 
 # SAJJAD HOSSAIN
 
