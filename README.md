@@ -150,3 +150,13 @@ Things I appreciate:
 <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-333333?style=flat-square&labelColor=111111" alt="Status: Always learning" />
 
 </div>
+<br/>
+
+<div align="center">
+  <img
+    width="100%"
+    height="400"
+    src="./assets/Meme.webp"
+    alt="Sajjad Hossain | Thanks for visiting"
+  />
+</div>
