@@ -36,7 +36,7 @@
 
 <br/><br/>
 
-[Portfolio](https://sajjadxyz.vercel.app/) · [GitHub Repositories](https://github.com/shsajjad098-oss?tab=repositories)
+[Portfolio](https://sajjadxyz.vercel.app/) 
 
 </div>
 
